@@ -1,0 +1,10 @@
+version: "3.1"
+
+services:
+  che:
+    image: eclipse/che:5.14.0
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./chedata:/data
+    environment:
+      - CHE_HOST=192.168.8.8
