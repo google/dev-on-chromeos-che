@@ -1,5 +1,10 @@
 # Eclipse Che for remove ChromeOS development
 
+## Disclaimer
+
+This is not an official Google product, this is just a way I found to get stuff
+done.
+
 ## Prerequsites
 
 Required
