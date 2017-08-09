@@ -1,4 +1,4 @@
-# Eclipse Che for remove ChromeOS development
+# Eclipse Che for remote ChromeOS development
 
 ## Disclaimer
 
