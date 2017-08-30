@@ -2,7 +2,7 @@ version: "3.1"
 
 services:
   che:
-    image: eclipse/che:5.14.0
+    image: eclipse/che:5.17.0
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./chedata:/data
